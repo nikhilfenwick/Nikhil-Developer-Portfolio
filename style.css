@@ -1,0 +1,22 @@
+header {
+  height: 50vh;
+  background: url(https://raw.githubusercontent.com/nikhilfenwick/ImageStorage/main/Background3.jpg)   center/cover;
+}
+
+.welcomesection {
+  background-color: rgb(145, 165, 230);
+}
+
+.collectionsection {
+  background-color: rgb(235, 99, 20);
+}
+
+.posterratessection {
+  background-color: blueviolet;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
